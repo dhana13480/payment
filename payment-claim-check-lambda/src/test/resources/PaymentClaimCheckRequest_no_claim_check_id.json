@@ -1,0 +1,14 @@
+{
+    "body-json": {},
+    "params": {
+        "path": {
+            "application_name": "MQPBI"
+        },
+        "querystring": {},
+        "header": {}
+    },
+    "stage-variables": {},
+    "context": {
+        "id_token": "jwt-token"
+    }
+}

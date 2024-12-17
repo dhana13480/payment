@@ -1,0 +1,15 @@
+{
+    "body-json": {},
+    "params": {
+        "path": {
+            "application_name": "MQPBI",
+            "claim_check_id": "420ff8b0-b29a-4f10-8d54-dc0c76a9c53e"
+        },
+        "querystring": {},
+        "header": {}
+    },
+    "stage-variables": {},
+    "context": {
+        "id_token": "jwt-token"
+    }
+}

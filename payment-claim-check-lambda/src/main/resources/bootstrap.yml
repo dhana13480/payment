@@ -1,0 +1,21 @@
+aws:
+  parameterStore:
+    parameters:
+      - prefix: /app/RMCS
+        profile-separator: "/"
+        values:
+          - /database/url
+          - /database/payments/url
+          - /database/username
+          - /database/passwordKey
+          - /svc/username
+          - /svc/passwordKey
+          - /oauth2/client/accessTokenUrl
+          - /oauth2/client/grantType
+          - /api/fci/validationUrl
+          - /fip/token/enable
+          - /aci/client/x-auth-key
+          - /dxtn/fcn/url
+          - /dxtn/fcn/userName
+          - /s3/internal/notification/bucket
+          - /s3/internal/notification/keyPrefix
