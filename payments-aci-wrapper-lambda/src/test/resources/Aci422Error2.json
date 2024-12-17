@@ -1,0 +1,20 @@
+{
+  "error": {
+    "status": 422,
+    "kind": "ValidationError",
+    "message": {
+      "code": "W.713.1300",
+      "default": "Validation failed for one or more fields."
+    },
+    "details": [
+      {
+        "kind": "InvalidRouting",
+        "target": "regionCode",
+        "message": {
+          "code": "W.713.1314",
+          "default": "The Routing Number you entered was not found."
+        }
+      }
+    ]
+  }
+}

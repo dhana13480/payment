@@ -1,0 +1,21 @@
+aws:
+  parameterStore:
+    parameters:
+      - prefix: /app/RMCS
+        profile-separator: "/"
+        values:
+          - /database/payments/url
+          - /database/username
+          - /database/passwordKey
+          - /aci/client/x-auth-key
+          - /aci/client/fundingAccountUrl
+          - /aci/client/countryUrl
+          - /aci/client/tokenUrl
+          - /aci/client/id
+          - /aci/client/secret
+          - /aci/client/grantType
+          - /svc/username
+          - /svc/passwordKey
+          - /oauth2/client/accessTokenUrl
+          - /oauth2/client/grantType
+

@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-02-06T21:45:20.158+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "message": "No static resource v4/billeraccounts/179593e-acf3-4a63-9a1b-cdcdc35a10d6/rmcsgatewaydev129/fundingaccounts.",
+  "path": "/v4/billeraccounts/179593e-acf3-4a63-9a1b-cdcdc35a10d6/rmcsgatewaydev129/fundingaccounts"
+}

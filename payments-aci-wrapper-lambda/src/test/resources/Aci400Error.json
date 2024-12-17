@@ -1,0 +1,10 @@
+{
+  "error": {
+    "status": 400,
+    "kind": "InvalidRequest",
+    "message": {
+      "code": "W.713.1000",
+      "default": "The request is malformed."
+    }
+  }
+}

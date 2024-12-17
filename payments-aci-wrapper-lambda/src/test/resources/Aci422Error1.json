@@ -1,0 +1,20 @@
+{
+  "error": {
+    "status": 422,
+    "kind": "ValidationError",
+    "message": {
+      "code": "W.713.1300",
+      "default": "Validation failed for one or more fields."
+    },
+    "details": [
+      {
+        "kind": "RequiredField",
+        "target": "accountHolderName",
+        "message": {
+          "code": "W.713.1301",
+          "default": "Value in request has invalid format."
+        }
+      }
+    ]
+  }
+}

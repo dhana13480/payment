@@ -1,0 +1,21 @@
+{
+  "transmission_id": "bc285a8e-adad-4a5f-9e01-6a630055b428",
+  "payment_req_id": "0df8dcdd-80df-4653-adf0-0b568fbbbe1d",
+  "owner": {
+    "kind": "BillerAccountOwner",
+    "billerId": "079593e7-acf3-4a63-9a1b-cdcdc35a10d6",
+    "billerAccountId": "rmcsgatewaydev"
+  },
+  "kind": "Ach",
+  "paymentMethodKind": "Ach",
+  "accountHolderName": "Joseph Rommelano",
+  "brandKind": "PersonalChecking",
+  "aba": "021200025",
+  "dda": "123123123123",
+  "billingAddress": {
+    "regionCode": "MD",
+    "postalCode": "20850",
+    "countryCode": "US"
+  },
+  "singleUse": false
+}

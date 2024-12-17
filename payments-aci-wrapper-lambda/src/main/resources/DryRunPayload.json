@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "kind": "BillerAccountOwner",
+    "billerId": "079593e7-acf3-4a63-9a1b-cdcdc35a10d6",
+    "billerAccountId": "dryRunUser"
+  },
+  "kind": "Card",
+  "cardHolderName": "dryRun User",
+  "cardNumber": "1234567890",
+  "expirationDate": "0122",
+  "billingAddress": {
+    "regionCode": "MD",
+    "postalCode": "10000",
+    "countryCode": "US"
+  },
+  "singleUse": false
+}

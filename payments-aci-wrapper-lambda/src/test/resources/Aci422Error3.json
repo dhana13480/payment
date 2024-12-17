@@ -1,0 +1,28 @@
+{
+  "error": {
+    "status": 422,
+    "kind": "ValidationError",
+    "message": {
+      "code": "W.713.1300",
+      "default": "Validation failed for one or more fields."
+    },
+    "details": [
+      {
+        "kind": "AuthorizationFailed",
+        "target": "aba",
+        "message": {
+          "code": "W.713.1325",
+          "default": "Bank account authorization declined. This routing or bank account number is invalid. Enter different account numbers, pick a different payment method, or call 1-855-673-7310 for more information about the inactive account numbers.."
+        }
+      },
+      {
+        "kind": "AuthorizationFailed",
+        "target": "dda",
+        "message": {
+          "code": "W.713.1325",
+          "default": "Bank account authorization declined. This routing or bank account number is invalid. Enter different account numbers, pick a different payment method, or call 1-855-673-7310 for more information about the inactive account numbers.."
+        }
+      }
+    ]
+  }
+}
